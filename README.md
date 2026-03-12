@@ -147,12 +147,3 @@ The algorithm correctly sorted 1.78 million elements in under 2 seconds on a sin
 ```
 block_sort.cpp    Full C++ source code
 README.md         This file
-```
-
----
-
-## Submission
-
-```
-EB3/67246/23 – Peter Kivwau Mbithi – https://github.com/YOUR_USERNAME/block-sort
-```
