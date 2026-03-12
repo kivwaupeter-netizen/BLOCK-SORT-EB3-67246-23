@@ -139,11 +139,3 @@ Block size equals 1 or 2, so the algorithm reduces almost entirely to insertion 
 
 **Large inputs (n = 1,780,000):**  
 The algorithm correctly sorted 1.78 million elements in under 2 seconds on a single core, demonstrating that the O(n log n) implementation scales to production-relevant sizes.
-
----
-
-## Repository Contents
-
-```
-block_sort.cpp    Full C++ source code
-README.md         This file
